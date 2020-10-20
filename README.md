@@ -6,6 +6,10 @@ _**React Native** es un framework desarrollado por Facebook que permite desarrol
 
 _Para conocer mas a fondo este framework se implemento este proyecto el cual "traquea" los cambios/fluctuaciones que experimentan las principales criptomonedas asi como los mercados disponibles para obtener el mejor precio._
 
+## ![](./static-readme/home-screen.jpeg)
+
+![](./static-readme/details-screen.jpeg)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
